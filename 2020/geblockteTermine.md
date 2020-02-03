@@ -11,10 +11,10 @@
 * 21.-24.05 Turnier
 * 25.-26.07 "Das Fest" in Karlsruhe
 
-### WJB B:
+### WJB:
 * 21.-24.05 Turnier
 
-### WJB A:
+### WJA:
 * 21.-24.05 Turnier
 
 ### KC: 
