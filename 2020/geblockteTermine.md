@@ -1,5 +1,5 @@
 ### Generell
-* 27. / 28. 06 JÜT (alles unter A)
+* 27.-28. 06 JÜT (alles unter A)
 
 ### Mädchen B:
 * 21.-24.05 Turnier
