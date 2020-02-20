@@ -5,8 +5,8 @@ mb,verbandsliga, 30, 90, 2x20 minuten
 mb,verbandsliga-turnier, 30, 240, 4 Spiele a 2x20 minuten plus Pause wg. Doppelspiel
 mjb,verbandsliga, 30, 120, 2*35 min; 2x2 minuten pause. 30 Min vor Anpfiff; danach; insgesamt 2.5h
 kb,verbandsliga, 30, 90, 2x20 minuten
-mc1,osb,?,?,?,?
-mc2,osb,?,?,?,?
-kc,osb,?,?,?,?
-md1,osb,?,?,?,?
-kd1,osb,?,?,?,?
+mc1,osb,?,?,?
+mc2,osb,?,?,?
+kc,osb,?,?,?
+md1,osb,?,?,?
+kd1,osb,?,?,?
